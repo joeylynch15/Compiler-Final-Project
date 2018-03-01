@@ -1,4 +1,5 @@
 // Brian Leary
+//Joseph Lynch
 /*
 	This program is a Pascallite compiler. It is capable of compiling a 
 	simple programming language into assembly code. This was the final
